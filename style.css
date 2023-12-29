@@ -45,6 +45,15 @@
     }
       
   }
+.Wrapper img{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  transform: rotateZ(43deg);
+  user-select: none;
+}
 
 .container
 {
